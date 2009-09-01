@@ -1,0 +1,8 @@
+## Interface: 30200
+## Title: DBMFffffuuuuu
+## Author: Haste
+## Version: 1.0
+## X-eMail: troeks@gmail.com
+## Notes: BIAF DBM. I hate you and all your shitty features that annoy the people who don't use it. BY MY CODE BE PURGED!
+
+stfu.lua
